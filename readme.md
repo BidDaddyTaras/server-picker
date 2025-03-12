@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 # **CS2** MM SERVER PICKER
 
 ![app](https://github.com/Jyben/csgo-mm-server-picker/blob/master/app/assets/img/app.gif)
@@ -12,6 +7,7 @@
 On Windows, the app create a new rule in your firewall. **So you have to activate it.**
 
 ## Download
+
 Available on Windows & Linux : [download](https://github.com/Jyben/csgo-mm-server-picker/releases/latest)
 
 ## Description
@@ -27,7 +23,7 @@ Since we do not have direct access to the IP addresses of the game servers but o
 
 ## Tips
 
-- You can launch CS:GO with the associate button 
+- You can launch CS:GO with the associate button
 - You can reset the configuartion at any time with the associate button (it will remove all the rules from your firewall or your iptables)
 - You just have to block the servers one time and you don't have to let the app open when you play
 - But, Valve regulary update his servers so you have to reset the configuration too
@@ -38,16 +34,18 @@ Since we do not have direct access to the IP addresses of the game servers but o
 ## Installation
 
 Windows installer :
-> **csgo-mm-server-picker-setup-*x.x.x*.exe**
+
+> **csgo-mm-server-picker-setup-_x.x.x_.exe**
 
 Linux app image :
-> **csgo-mm-server-picker-*x.x.x*-x86_64.AppImage**
+
+> **csgo-mm-server-picker-_x.x.x_-x86_64.AppImage**
 
 ## Report a bug
 
 Please provide the log file when you report an issue, you can find the files under the name "csgo-mm-server-picker.log" here :
 
-Windows : 
+Windows :
 
 > C:\Users\\**user name**\AppData\Local\Programs\csgo-mm-server-picker
 
